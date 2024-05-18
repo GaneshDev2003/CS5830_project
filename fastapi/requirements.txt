@@ -1,0 +1,5 @@
+fastapi
+tensorflow==2.16.1
+prometheus_client
+prometheus_fastapi_instrumentator
+psutil
